@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688430547 source:c:\linguagem c\sequencia_impares\main.c
+	<stdio.h>
+	<stdlib.h>
+
